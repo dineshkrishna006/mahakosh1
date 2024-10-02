@@ -10,6 +10,7 @@ export default function Home() {
     <div className="w-[100vw]">
       <Navbar />
       <HeadlessUICarousel/>
+      <p>hello</p>
       <Section2 />
       <Category/>
       {/* <Accordin/> */}
